@@ -1,0 +1,3 @@
+<field name="latitude" type="DOUBLE" indexed="true" stored="true" sort="false"/>
+<field name="longitude" type="DOUBLE" indexed="true" stored="true" sort="false"/>
+<field name="position" type="POINT" indexed="true" stored="true" sort="true"/>
